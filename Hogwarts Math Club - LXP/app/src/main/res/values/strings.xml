@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Hogwarts Math Club</string>
+    <string name="username">¿Cuál es tu nombre?</string>
+    <string name="play">JUGAR</string>
+    <string name="puntos">Puntos:</string>
+    <string name="answer">Respuesta</string>
+    <string name="check">Comprobar</string>
+    <string name="level"><b>NIVEL:</b></string>
+    <string name="scoreboard"><u>SCOREBOARD</u></string>
+    <string name="level1"><b>NIVEL 1</b></string>
+    <string name="level2"><b>NIVEL 2</b></string>
+    <string name="level3"><b>NIVEL 3</b></string>
+    <string name="modo">MODO DE JUEGO</string>
+    <string name="endless">SIN FIN</string>
+    <string name="levels">NIVELES</string>
+    <string name="reiniciar">REINICIAR</string>
+    <string name="mensaje_gameover">Has sido derrotado por los mortífagos</string>
+    <string name="mensaje_ganador">Has pasado otro curso en Hogwarts!!</string>
+    <string name="exit">SALIR</string>
+    <string name="borrar">LIMPIAR</string>
+</resources>
