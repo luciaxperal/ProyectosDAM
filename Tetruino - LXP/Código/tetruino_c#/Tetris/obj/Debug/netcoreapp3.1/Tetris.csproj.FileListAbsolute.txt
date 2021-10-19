@@ -1,0 +1,337 @@
+C:\Users\Lucia\Desktop\Tetris\Tetris\bin\Debug\netcoreapp3.1\Tetris.exe
+C:\Users\Lucia\Desktop\Tetris\Tetris\bin\Debug\netcoreapp3.1\Tetris.deps.json
+C:\Users\Lucia\Desktop\Tetris\Tetris\bin\Debug\netcoreapp3.1\Tetris.runtimeconfig.json
+C:\Users\Lucia\Desktop\Tetris\Tetris\bin\Debug\netcoreapp3.1\Tetris.runtimeconfig.dev.json
+C:\Users\Lucia\Desktop\Tetris\Tetris\bin\Debug\netcoreapp3.1\Tetris.dll
+C:\Users\Lucia\Desktop\Tetris\Tetris\bin\Debug\netcoreapp3.1\Tetris.pdb
+C:\Users\Lucia\Desktop\Tetris\Tetris\obj\Debug\netcoreapp3.1\Tetris.csprojAssemblyReference.cache
+C:\Users\Lucia\Desktop\Tetris\Tetris\obj\Debug\netcoreapp3.1\Tetris.Form1.resources
+C:\Users\Lucia\Desktop\Tetris\Tetris\obj\Debug\netcoreapp3.1\Tetris.csproj.GenerateResource.cache
+C:\Users\Lucia\Desktop\Tetris\Tetris\obj\Debug\netcoreapp3.1\Tetris.AssemblyInfoInputs.cache
+C:\Users\Lucia\Desktop\Tetris\Tetris\obj\Debug\netcoreapp3.1\Tetris.AssemblyInfo.cs
+C:\Users\Lucia\Desktop\Tetris\Tetris\obj\Debug\netcoreapp3.1\Tetris.csproj.CoreCompileInputs.cache
+C:\Users\Lucia\Desktop\Tetris\Tetris\obj\Debug\netcoreapp3.1\Tetris.dll
+C:\Users\Lucia\Desktop\Tetris\Tetris\obj\Debug\netcoreapp3.1\Tetris.pdb
+C:\Users\Lucia\Desktop\Tetris\Tetris\obj\Debug\netcoreapp3.1\Tetris.genruntimeconfig.cache
+C:\Users\Lucia\Desktop\Pruebas Tetris\Tetris\bin\Debug\netcoreapp3.1\Tetris.exe
+C:\Users\Lucia\Desktop\Pruebas Tetris\Tetris\bin\Debug\netcoreapp3.1\Tetris.deps.json
+C:\Users\Lucia\Desktop\Pruebas Tetris\Tetris\bin\Debug\netcoreapp3.1\Tetris.runtimeconfig.json
+C:\Users\Lucia\Desktop\Pruebas Tetris\Tetris\bin\Debug\netcoreapp3.1\Tetris.runtimeconfig.dev.json
+C:\Users\Lucia\Desktop\Pruebas Tetris\Tetris\bin\Debug\netcoreapp3.1\Tetris.dll
+C:\Users\Lucia\Desktop\Pruebas Tetris\Tetris\bin\Debug\netcoreapp3.1\Tetris.pdb
+C:\Users\Lucia\Desktop\Pruebas Tetris\Tetris\obj\Debug\netcoreapp3.1\Tetris.csprojAssemblyReference.cache
+C:\Users\Lucia\Desktop\Pruebas Tetris\Tetris\obj\Debug\netcoreapp3.1\Tetris.Form1.resources
+C:\Users\Lucia\Desktop\Pruebas Tetris\Tetris\obj\Debug\netcoreapp3.1\Tetris.csproj.GenerateResource.cache
+C:\Users\Lucia\Desktop\Pruebas Tetris\Tetris\obj\Debug\netcoreapp3.1\Tetris.AssemblyInfoInputs.cache
+C:\Users\Lucia\Desktop\Pruebas Tetris\Tetris\obj\Debug\netcoreapp3.1\Tetris.AssemblyInfo.cs
+C:\Users\Lucia\Desktop\Pruebas Tetris\Tetris\obj\Debug\netcoreapp3.1\Tetris.csproj.CoreCompileInputs.cache
+C:\Users\Lucia\Desktop\Pruebas Tetris\Tetris\obj\Debug\netcoreapp3.1\Tetris.dll
+C:\Users\Lucia\Desktop\Pruebas Tetris\Tetris\obj\Debug\netcoreapp3.1\Tetris.pdb
+C:\Users\Lucia\Desktop\Pruebas Tetris\Tetris\obj\Debug\netcoreapp3.1\Tetris.genruntimeconfig.cache
+C:\Users\Lucia\Desktop\Colisiones\Tetris\obj\Debug\netcoreapp3.1\Tetris.csprojAssemblyReference.cache
+C:\Users\Lucia\Desktop\Colisiones\Tetris\obj\Debug\netcoreapp3.1\Tetris.Form1.resources
+C:\Users\Lucia\Desktop\Colisiones\Tetris\obj\Debug\netcoreapp3.1\Tetris.csproj.GenerateResource.cache
+C:\Users\Lucia\Desktop\Colisiones\Tetris\obj\Debug\netcoreapp3.1\Tetris.AssemblyInfoInputs.cache
+C:\Users\Lucia\Desktop\Colisiones\Tetris\obj\Debug\netcoreapp3.1\Tetris.AssemblyInfo.cs
+C:\Users\Lucia\Desktop\Colisiones\Tetris\obj\Debug\netcoreapp3.1\Tetris.csproj.CoreCompileInputs.cache
+C:\Users\Lucia\Desktop\Colisiones\Tetris\obj\Debug\netcoreapp3.1\Tetris.dll
+C:\Users\Lucia\Desktop\Colisiones\Tetris\obj\Debug\netcoreapp3.1\Tetris.pdb
+C:\Users\Lucia\Desktop\Colisiones\Tetris\bin\Debug\netcoreapp3.1\Tetris.exe
+C:\Users\Lucia\Desktop\Colisiones\Tetris\bin\Debug\netcoreapp3.1\Tetris.deps.json
+C:\Users\Lucia\Desktop\Colisiones\Tetris\bin\Debug\netcoreapp3.1\Tetris.runtimeconfig.json
+C:\Users\Lucia\Desktop\Colisiones\Tetris\bin\Debug\netcoreapp3.1\Tetris.runtimeconfig.dev.json
+C:\Users\Lucia\Desktop\Colisiones\Tetris\bin\Debug\netcoreapp3.1\Tetris.dll
+C:\Users\Lucia\Desktop\Colisiones\Tetris\bin\Debug\netcoreapp3.1\Tetris.pdb
+C:\Users\Lucia\Desktop\Colisiones\Tetris\obj\Debug\netcoreapp3.1\Tetris.genruntimeconfig.cache
+C:\Users\Lucia\Desktop\Colisiones2\Tetris\bin\Debug\netcoreapp3.1\Tetris.exe
+C:\Users\Lucia\Desktop\Colisiones2\Tetris\bin\Debug\netcoreapp3.1\Tetris.deps.json
+C:\Users\Lucia\Desktop\Colisiones2\Tetris\bin\Debug\netcoreapp3.1\Tetris.runtimeconfig.json
+C:\Users\Lucia\Desktop\Colisiones2\Tetris\bin\Debug\netcoreapp3.1\Tetris.runtimeconfig.dev.json
+C:\Users\Lucia\Desktop\Colisiones2\Tetris\bin\Debug\netcoreapp3.1\Tetris.dll
+C:\Users\Lucia\Desktop\Colisiones2\Tetris\bin\Debug\netcoreapp3.1\Tetris.pdb
+C:\Users\Lucia\Desktop\Colisiones2\Tetris\obj\Debug\netcoreapp3.1\Tetris.csprojAssemblyReference.cache
+C:\Users\Lucia\Desktop\Colisiones2\Tetris\obj\Debug\netcoreapp3.1\Tetris.Form1.resources
+C:\Users\Lucia\Desktop\Colisiones2\Tetris\obj\Debug\netcoreapp3.1\Tetris.csproj.GenerateResource.cache
+C:\Users\Lucia\Desktop\Colisiones2\Tetris\obj\Debug\netcoreapp3.1\Tetris.AssemblyInfoInputs.cache
+C:\Users\Lucia\Desktop\Colisiones2\Tetris\obj\Debug\netcoreapp3.1\Tetris.AssemblyInfo.cs
+C:\Users\Lucia\Desktop\Colisiones2\Tetris\obj\Debug\netcoreapp3.1\Tetris.csproj.CoreCompileInputs.cache
+C:\Users\Lucia\Desktop\Colisiones2\Tetris\obj\Debug\netcoreapp3.1\Tetris.dll
+C:\Users\Lucia\Desktop\Colisiones2\Tetris\obj\Debug\netcoreapp3.1\Tetris.pdb
+C:\Users\Lucia\Desktop\Colisiones2\Tetris\obj\Debug\netcoreapp3.1\Tetris.genruntimeconfig.cache
+C:\Users\Lucia\Desktop\DetectaLineaLlena\Tetris\bin\Debug\netcoreapp3.1\Tetris.exe
+C:\Users\Lucia\Desktop\DetectaLineaLlena\Tetris\bin\Debug\netcoreapp3.1\Tetris.deps.json
+C:\Users\Lucia\Desktop\DetectaLineaLlena\Tetris\bin\Debug\netcoreapp3.1\Tetris.runtimeconfig.json
+C:\Users\Lucia\Desktop\DetectaLineaLlena\Tetris\bin\Debug\netcoreapp3.1\Tetris.runtimeconfig.dev.json
+C:\Users\Lucia\Desktop\DetectaLineaLlena\Tetris\bin\Debug\netcoreapp3.1\Tetris.dll
+C:\Users\Lucia\Desktop\DetectaLineaLlena\Tetris\bin\Debug\netcoreapp3.1\Tetris.pdb
+C:\Users\Lucia\Desktop\DetectaLineaLlena\Tetris\obj\Debug\netcoreapp3.1\Tetris.csprojAssemblyReference.cache
+C:\Users\Lucia\Desktop\DetectaLineaLlena\Tetris\obj\Debug\netcoreapp3.1\Tetris.Form1.resources
+C:\Users\Lucia\Desktop\DetectaLineaLlena\Tetris\obj\Debug\netcoreapp3.1\Tetris.csproj.GenerateResource.cache
+C:\Users\Lucia\Desktop\DetectaLineaLlena\Tetris\obj\Debug\netcoreapp3.1\Tetris.AssemblyInfoInputs.cache
+C:\Users\Lucia\Desktop\DetectaLineaLlena\Tetris\obj\Debug\netcoreapp3.1\Tetris.AssemblyInfo.cs
+C:\Users\Lucia\Desktop\DetectaLineaLlena\Tetris\obj\Debug\netcoreapp3.1\Tetris.csproj.CoreCompileInputs.cache
+C:\Users\Lucia\Desktop\DetectaLineaLlena\Tetris\obj\Debug\netcoreapp3.1\Tetris.dll
+C:\Users\Lucia\Desktop\DetectaLineaLlena\Tetris\obj\Debug\netcoreapp3.1\Tetris.pdb
+C:\Users\Lucia\Desktop\DetectaLineaLlena\Tetris\obj\Debug\netcoreapp3.1\Tetris.genruntimeconfig.cache
+C:\Users\Lucia\Desktop\ColisionesAbajo\Tetris\bin\Debug\netcoreapp3.1\Tetris.exe
+C:\Users\Lucia\Desktop\ColisionesAbajo\Tetris\bin\Debug\netcoreapp3.1\Tetris.deps.json
+C:\Users\Lucia\Desktop\ColisionesAbajo\Tetris\bin\Debug\netcoreapp3.1\Tetris.runtimeconfig.json
+C:\Users\Lucia\Desktop\ColisionesAbajo\Tetris\bin\Debug\netcoreapp3.1\Tetris.runtimeconfig.dev.json
+C:\Users\Lucia\Desktop\ColisionesAbajo\Tetris\bin\Debug\netcoreapp3.1\Tetris.dll
+C:\Users\Lucia\Desktop\ColisionesAbajo\Tetris\bin\Debug\netcoreapp3.1\Tetris.pdb
+C:\Users\Lucia\Desktop\ColisionesAbajo\Tetris\obj\Debug\netcoreapp3.1\Tetris.csprojAssemblyReference.cache
+C:\Users\Lucia\Desktop\ColisionesAbajo\Tetris\obj\Debug\netcoreapp3.1\Tetris.Form1.resources
+C:\Users\Lucia\Desktop\ColisionesAbajo\Tetris\obj\Debug\netcoreapp3.1\Tetris.csproj.GenerateResource.cache
+C:\Users\Lucia\Desktop\ColisionesAbajo\Tetris\obj\Debug\netcoreapp3.1\Tetris.AssemblyInfoInputs.cache
+C:\Users\Lucia\Desktop\ColisionesAbajo\Tetris\obj\Debug\netcoreapp3.1\Tetris.AssemblyInfo.cs
+C:\Users\Lucia\Desktop\ColisionesAbajo\Tetris\obj\Debug\netcoreapp3.1\Tetris.csproj.CoreCompileInputs.cache
+C:\Users\Lucia\Desktop\ColisionesAbajo\Tetris\obj\Debug\netcoreapp3.1\Tetris.dll
+C:\Users\Lucia\Desktop\ColisionesAbajo\Tetris\obj\Debug\netcoreapp3.1\Tetris.pdb
+C:\Users\Lucia\Desktop\ColisionesAbajo\Tetris\obj\Debug\netcoreapp3.1\Tetris.genruntimeconfig.cache
+C:\Users\Lucia\Desktop\BorrarLinea\Tetris\bin\Debug\netcoreapp3.1\Tetris.exe
+C:\Users\Lucia\Desktop\BorrarLinea\Tetris\bin\Debug\netcoreapp3.1\Tetris.deps.json
+C:\Users\Lucia\Desktop\BorrarLinea\Tetris\bin\Debug\netcoreapp3.1\Tetris.runtimeconfig.json
+C:\Users\Lucia\Desktop\BorrarLinea\Tetris\bin\Debug\netcoreapp3.1\Tetris.runtimeconfig.dev.json
+C:\Users\Lucia\Desktop\BorrarLinea\Tetris\bin\Debug\netcoreapp3.1\Tetris.dll
+C:\Users\Lucia\Desktop\BorrarLinea\Tetris\bin\Debug\netcoreapp3.1\Tetris.pdb
+C:\Users\Lucia\Desktop\BorrarLinea\Tetris\obj\Debug\netcoreapp3.1\Tetris.csprojAssemblyReference.cache
+C:\Users\Lucia\Desktop\BorrarLinea\Tetris\obj\Debug\netcoreapp3.1\Tetris.Form1.resources
+C:\Users\Lucia\Desktop\BorrarLinea\Tetris\obj\Debug\netcoreapp3.1\Tetris.csproj.GenerateResource.cache
+C:\Users\Lucia\Desktop\BorrarLinea\Tetris\obj\Debug\netcoreapp3.1\Tetris.AssemblyInfoInputs.cache
+C:\Users\Lucia\Desktop\BorrarLinea\Tetris\obj\Debug\netcoreapp3.1\Tetris.AssemblyInfo.cs
+C:\Users\Lucia\Desktop\BorrarLinea\Tetris\obj\Debug\netcoreapp3.1\Tetris.csproj.CoreCompileInputs.cache
+C:\Users\Lucia\Desktop\BorrarLinea\Tetris\obj\Debug\netcoreapp3.1\Tetris.dll
+C:\Users\Lucia\Desktop\BorrarLinea\Tetris\obj\Debug\netcoreapp3.1\Tetris.pdb
+C:\Users\Lucia\Desktop\BorrarLinea\Tetris\obj\Debug\netcoreapp3.1\Tetris.genruntimeconfig.cache
+C:\Users\Lucia\Desktop\BorrarLinea2\Tetris\bin\Debug\netcoreapp3.1\Tetris.exe
+C:\Users\Lucia\Desktop\BorrarLinea2\Tetris\bin\Debug\netcoreapp3.1\Tetris.deps.json
+C:\Users\Lucia\Desktop\BorrarLinea2\Tetris\bin\Debug\netcoreapp3.1\Tetris.runtimeconfig.json
+C:\Users\Lucia\Desktop\BorrarLinea2\Tetris\bin\Debug\netcoreapp3.1\Tetris.runtimeconfig.dev.json
+C:\Users\Lucia\Desktop\BorrarLinea2\Tetris\bin\Debug\netcoreapp3.1\Tetris.dll
+C:\Users\Lucia\Desktop\BorrarLinea2\Tetris\bin\Debug\netcoreapp3.1\Tetris.pdb
+C:\Users\Lucia\Desktop\BorrarLinea2\Tetris\obj\Debug\netcoreapp3.1\Tetris.csprojAssemblyReference.cache
+C:\Users\Lucia\Desktop\BorrarLinea2\Tetris\obj\Debug\netcoreapp3.1\Tetris.Form1.resources
+C:\Users\Lucia\Desktop\BorrarLinea2\Tetris\obj\Debug\netcoreapp3.1\Tetris.csproj.GenerateResource.cache
+C:\Users\Lucia\Desktop\BorrarLinea2\Tetris\obj\Debug\netcoreapp3.1\Tetris.AssemblyInfoInputs.cache
+C:\Users\Lucia\Desktop\BorrarLinea2\Tetris\obj\Debug\netcoreapp3.1\Tetris.AssemblyInfo.cs
+C:\Users\Lucia\Desktop\BorrarLinea2\Tetris\obj\Debug\netcoreapp3.1\Tetris.csproj.CoreCompileInputs.cache
+C:\Users\Lucia\Desktop\BorrarLinea2\Tetris\obj\Debug\netcoreapp3.1\Tetris.dll
+C:\Users\Lucia\Desktop\BorrarLinea2\Tetris\obj\Debug\netcoreapp3.1\Tetris.pdb
+C:\Users\Lucia\Desktop\BorrarLinea2\Tetris\obj\Debug\netcoreapp3.1\Tetris.genruntimeconfig.cache
+C:\Users\Lucia\Desktop\Look And Feel\Tetris\bin\Debug\netcoreapp3.1\Tetris.exe
+C:\Users\Lucia\Desktop\Look And Feel\Tetris\bin\Debug\netcoreapp3.1\Tetris.deps.json
+C:\Users\Lucia\Desktop\Look And Feel\Tetris\bin\Debug\netcoreapp3.1\Tetris.runtimeconfig.json
+C:\Users\Lucia\Desktop\Look And Feel\Tetris\bin\Debug\netcoreapp3.1\Tetris.runtimeconfig.dev.json
+C:\Users\Lucia\Desktop\Look And Feel\Tetris\bin\Debug\netcoreapp3.1\Tetris.dll
+C:\Users\Lucia\Desktop\Look And Feel\Tetris\bin\Debug\netcoreapp3.1\Tetris.pdb
+C:\Users\Lucia\Desktop\Look And Feel\Tetris\obj\Debug\netcoreapp3.1\Tetris.csprojAssemblyReference.cache
+C:\Users\Lucia\Desktop\Look And Feel\Tetris\obj\Debug\netcoreapp3.1\Tetris.csproj.GenerateResource.cache
+C:\Users\Lucia\Desktop\Look And Feel\Tetris\obj\Debug\netcoreapp3.1\Tetris.AssemblyInfoInputs.cache
+C:\Users\Lucia\Desktop\Look And Feel\Tetris\obj\Debug\netcoreapp3.1\Tetris.AssemblyInfo.cs
+C:\Users\Lucia\Desktop\Look And Feel\Tetris\obj\Debug\netcoreapp3.1\Tetris.csproj.CoreCompileInputs.cache
+C:\Users\Lucia\Desktop\Look And Feel\Tetris\obj\Debug\netcoreapp3.1\Tetris.dll
+C:\Users\Lucia\Desktop\Look And Feel\Tetris\obj\Debug\netcoreapp3.1\Tetris.pdb
+C:\Users\Lucia\Desktop\Look And Feel\Tetris\obj\Debug\netcoreapp3.1\Tetris.genruntimeconfig.cache
+C:\Users\Lucia\Desktop\Look And Feel\Tetris\obj\Debug\netcoreapp3.1\Tetris.Inicio.resources
+C:\Users\Lucia\Desktop\Look And Feel\Tetris\obj\Debug\netcoreapp3.1\Tetris.Juego.resources
+C:\Users\Lucia\Desktop\Impl Arduino\Tetris\bin\Debug\netcoreapp3.1\Tetris.exe
+C:\Users\Lucia\Desktop\Impl Arduino\Tetris\bin\Debug\netcoreapp3.1\Tetris.deps.json
+C:\Users\Lucia\Desktop\Impl Arduino\Tetris\bin\Debug\netcoreapp3.1\Tetris.runtimeconfig.json
+C:\Users\Lucia\Desktop\Impl Arduino\Tetris\bin\Debug\netcoreapp3.1\Tetris.runtimeconfig.dev.json
+C:\Users\Lucia\Desktop\Impl Arduino\Tetris\bin\Debug\netcoreapp3.1\Tetris.dll
+C:\Users\Lucia\Desktop\Impl Arduino\Tetris\bin\Debug\netcoreapp3.1\Tetris.pdb
+C:\Users\Lucia\Desktop\Impl Arduino\Tetris\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\Lucia\Desktop\Impl Arduino\Tetris\bin\Debug\netcoreapp3.1\System.IO.Ports.dll
+C:\Users\Lucia\Desktop\Impl Arduino\Tetris\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\Lucia\Desktop\Impl Arduino\Tetris\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\Lucia\Desktop\Impl Arduino\Tetris\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\Lucia\Desktop\Impl Arduino\Tetris\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\Lucia\Desktop\Impl Arduino\Tetris\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\Lucia\Desktop\Impl Arduino\Tetris\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\Lucia\Desktop\Impl Arduino\Tetris\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\Lucia\Desktop\Impl Arduino\Tetris\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\Lucia\Desktop\Impl Arduino\Tetris\bin\Debug\netcoreapp3.1\runtimes\osx\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\Lucia\Desktop\Impl Arduino\Tetris\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\Lucia\Desktop\Impl Arduino\Tetris\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\Lucia\Desktop\Impl Arduino\Tetris\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Lucia\Desktop\Impl Arduino\Tetris\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Lucia\Desktop\Impl Arduino\Tetris\obj\Debug\netcoreapp3.1\Tetris.csprojAssemblyReference.cache
+C:\Users\Lucia\Desktop\Impl Arduino\Tetris\obj\Debug\netcoreapp3.1\Tetris.Inicio.resources
+C:\Users\Lucia\Desktop\Impl Arduino\Tetris\obj\Debug\netcoreapp3.1\Tetris.Juego.resources
+C:\Users\Lucia\Desktop\Impl Arduino\Tetris\obj\Debug\netcoreapp3.1\Tetris.csproj.GenerateResource.cache
+C:\Users\Lucia\Desktop\Impl Arduino\Tetris\obj\Debug\netcoreapp3.1\Tetris.AssemblyInfoInputs.cache
+C:\Users\Lucia\Desktop\Impl Arduino\Tetris\obj\Debug\netcoreapp3.1\Tetris.AssemblyInfo.cs
+C:\Users\Lucia\Desktop\Impl Arduino\Tetris\obj\Debug\netcoreapp3.1\Tetris.csproj.CoreCompileInputs.cache
+C:\Users\Lucia\Desktop\Impl Arduino\Tetris\obj\Debug\netcoreapp3.1\Tetris.csproj.CopyComplete
+C:\Users\Lucia\Desktop\Impl Arduino\Tetris\obj\Debug\netcoreapp3.1\Tetris.dll
+C:\Users\Lucia\Desktop\Impl Arduino\Tetris\obj\Debug\netcoreapp3.1\Tetris.pdb
+C:\Users\Lucia\Desktop\Impl Arduino\Tetris\obj\Debug\netcoreapp3.1\Tetris.genruntimeconfig.cache
+C:\Users\Lucia\Desktop\Borrar Funciona\Tetris\bin\Debug\netcoreapp3.1\Tetris.exe
+C:\Users\Lucia\Desktop\Borrar Funciona\Tetris\bin\Debug\netcoreapp3.1\Tetris.deps.json
+C:\Users\Lucia\Desktop\Borrar Funciona\Tetris\bin\Debug\netcoreapp3.1\Tetris.runtimeconfig.json
+C:\Users\Lucia\Desktop\Borrar Funciona\Tetris\bin\Debug\netcoreapp3.1\Tetris.runtimeconfig.dev.json
+C:\Users\Lucia\Desktop\Borrar Funciona\Tetris\bin\Debug\netcoreapp3.1\Tetris.dll
+C:\Users\Lucia\Desktop\Borrar Funciona\Tetris\bin\Debug\netcoreapp3.1\Tetris.pdb
+C:\Users\Lucia\Desktop\Borrar Funciona\Tetris\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\Lucia\Desktop\Borrar Funciona\Tetris\bin\Debug\netcoreapp3.1\System.IO.Ports.dll
+C:\Users\Lucia\Desktop\Borrar Funciona\Tetris\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\Lucia\Desktop\Borrar Funciona\Tetris\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\Lucia\Desktop\Borrar Funciona\Tetris\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\Lucia\Desktop\Borrar Funciona\Tetris\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\Lucia\Desktop\Borrar Funciona\Tetris\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\Lucia\Desktop\Borrar Funciona\Tetris\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\Lucia\Desktop\Borrar Funciona\Tetris\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\Lucia\Desktop\Borrar Funciona\Tetris\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\Lucia\Desktop\Borrar Funciona\Tetris\bin\Debug\netcoreapp3.1\runtimes\osx\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\Lucia\Desktop\Borrar Funciona\Tetris\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\Lucia\Desktop\Borrar Funciona\Tetris\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\Lucia\Desktop\Borrar Funciona\Tetris\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Lucia\Desktop\Borrar Funciona\Tetris\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Lucia\Desktop\Borrar Funciona\Tetris\obj\Debug\netcoreapp3.1\Tetris.csprojAssemblyReference.cache
+C:\Users\Lucia\Desktop\Borrar Funciona\Tetris\obj\Debug\netcoreapp3.1\Tetris.Inicio.resources
+C:\Users\Lucia\Desktop\Borrar Funciona\Tetris\obj\Debug\netcoreapp3.1\Tetris.Juego.resources
+C:\Users\Lucia\Desktop\Borrar Funciona\Tetris\obj\Debug\netcoreapp3.1\Tetris.csproj.GenerateResource.cache
+C:\Users\Lucia\Desktop\Borrar Funciona\Tetris\obj\Debug\netcoreapp3.1\Tetris.AssemblyInfoInputs.cache
+C:\Users\Lucia\Desktop\Borrar Funciona\Tetris\obj\Debug\netcoreapp3.1\Tetris.AssemblyInfo.cs
+C:\Users\Lucia\Desktop\Borrar Funciona\Tetris\obj\Debug\netcoreapp3.1\Tetris.csproj.CoreCompileInputs.cache
+C:\Users\Lucia\Desktop\Borrar Funciona\Tetris\obj\Debug\netcoreapp3.1\Tetris.csproj.CopyComplete
+C:\Users\Lucia\Desktop\Borrar Funciona\Tetris\obj\Debug\netcoreapp3.1\Tetris.dll
+C:\Users\Lucia\Desktop\Borrar Funciona\Tetris\obj\Debug\netcoreapp3.1\Tetris.pdb
+C:\Users\Lucia\Desktop\Borrar Funciona\Tetris\obj\Debug\netcoreapp3.1\Tetris.genruntimeconfig.cache
+C:\Users\Lucia\Desktop\Borrar Funciona\Tetris\obj\Debug\netcoreapp3.1\Tetris.Fin.resources
+C:\Users\Lucia\Desktop\Impl Arduino 2\Tetris\bin\Debug\netcoreapp3.1\Tetris.exe
+C:\Users\Lucia\Desktop\Impl Arduino 2\Tetris\bin\Debug\netcoreapp3.1\Tetris.deps.json
+C:\Users\Lucia\Desktop\Impl Arduino 2\Tetris\bin\Debug\netcoreapp3.1\Tetris.runtimeconfig.json
+C:\Users\Lucia\Desktop\Impl Arduino 2\Tetris\bin\Debug\netcoreapp3.1\Tetris.runtimeconfig.dev.json
+C:\Users\Lucia\Desktop\Impl Arduino 2\Tetris\bin\Debug\netcoreapp3.1\Tetris.dll
+C:\Users\Lucia\Desktop\Impl Arduino 2\Tetris\bin\Debug\netcoreapp3.1\Tetris.pdb
+C:\Users\Lucia\Desktop\Impl Arduino 2\Tetris\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\Lucia\Desktop\Impl Arduino 2\Tetris\bin\Debug\netcoreapp3.1\System.IO.Ports.dll
+C:\Users\Lucia\Desktop\Impl Arduino 2\Tetris\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\Lucia\Desktop\Impl Arduino 2\Tetris\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\Lucia\Desktop\Impl Arduino 2\Tetris\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\Lucia\Desktop\Impl Arduino 2\Tetris\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\Lucia\Desktop\Impl Arduino 2\Tetris\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\Lucia\Desktop\Impl Arduino 2\Tetris\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\Lucia\Desktop\Impl Arduino 2\Tetris\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\Lucia\Desktop\Impl Arduino 2\Tetris\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\Lucia\Desktop\Impl Arduino 2\Tetris\bin\Debug\netcoreapp3.1\runtimes\osx\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\Lucia\Desktop\Impl Arduino 2\Tetris\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\Lucia\Desktop\Impl Arduino 2\Tetris\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\Lucia\Desktop\Impl Arduino 2\Tetris\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Lucia\Desktop\Impl Arduino 2\Tetris\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Lucia\Desktop\Impl Arduino 2\Tetris\obj\Debug\netcoreapp3.1\Tetris.csprojAssemblyReference.cache
+C:\Users\Lucia\Desktop\Impl Arduino 2\Tetris\obj\Debug\netcoreapp3.1\Tetris.Fin.resources
+C:\Users\Lucia\Desktop\Impl Arduino 2\Tetris\obj\Debug\netcoreapp3.1\Tetris.Inicio.resources
+C:\Users\Lucia\Desktop\Impl Arduino 2\Tetris\obj\Debug\netcoreapp3.1\Tetris.Juego.resources
+C:\Users\Lucia\Desktop\Impl Arduino 2\Tetris\obj\Debug\netcoreapp3.1\Tetris.csproj.GenerateResource.cache
+C:\Users\Lucia\Desktop\Impl Arduino 2\Tetris\obj\Debug\netcoreapp3.1\Tetris.AssemblyInfoInputs.cache
+C:\Users\Lucia\Desktop\Impl Arduino 2\Tetris\obj\Debug\netcoreapp3.1\Tetris.AssemblyInfo.cs
+C:\Users\Lucia\Desktop\Impl Arduino 2\Tetris\obj\Debug\netcoreapp3.1\Tetris.csproj.CoreCompileInputs.cache
+C:\Users\Lucia\Desktop\Impl Arduino 2\Tetris\obj\Debug\netcoreapp3.1\Tetris.csproj.CopyComplete
+C:\Users\Lucia\Desktop\Impl Arduino 2\Tetris\obj\Debug\netcoreapp3.1\Tetris.dll
+C:\Users\Lucia\Desktop\Impl Arduino 2\Tetris\obj\Debug\netcoreapp3.1\Tetris.pdb
+C:\Users\Lucia\Desktop\Impl Arduino 2\Tetris\obj\Debug\netcoreapp3.1\Tetris.genruntimeconfig.cache
+C:\Users\Lucia\Desktop\Impl Arduino 2\Tetris\obj\Debug\netcoreapp3.1\Tetris.Properties.Resources.resources
+C:\Users\Lucia\Desktop\Ultimos retoques\Tetris\bin\Debug\netcoreapp3.1\Tetris.exe
+C:\Users\Lucia\Desktop\Ultimos retoques\Tetris\bin\Debug\netcoreapp3.1\Tetris.deps.json
+C:\Users\Lucia\Desktop\Ultimos retoques\Tetris\bin\Debug\netcoreapp3.1\Tetris.runtimeconfig.json
+C:\Users\Lucia\Desktop\Ultimos retoques\Tetris\bin\Debug\netcoreapp3.1\Tetris.runtimeconfig.dev.json
+C:\Users\Lucia\Desktop\Ultimos retoques\Tetris\bin\Debug\netcoreapp3.1\Tetris.dll
+C:\Users\Lucia\Desktop\Ultimos retoques\Tetris\bin\Debug\netcoreapp3.1\Tetris.pdb
+C:\Users\Lucia\Desktop\Ultimos retoques\Tetris\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\Lucia\Desktop\Ultimos retoques\Tetris\bin\Debug\netcoreapp3.1\System.IO.Ports.dll
+C:\Users\Lucia\Desktop\Ultimos retoques\Tetris\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\Lucia\Desktop\Ultimos retoques\Tetris\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\Lucia\Desktop\Ultimos retoques\Tetris\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\Lucia\Desktop\Ultimos retoques\Tetris\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\Lucia\Desktop\Ultimos retoques\Tetris\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\Lucia\Desktop\Ultimos retoques\Tetris\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\Lucia\Desktop\Ultimos retoques\Tetris\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\Lucia\Desktop\Ultimos retoques\Tetris\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\Lucia\Desktop\Ultimos retoques\Tetris\bin\Debug\netcoreapp3.1\runtimes\osx\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\Lucia\Desktop\Ultimos retoques\Tetris\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\Lucia\Desktop\Ultimos retoques\Tetris\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\Lucia\Desktop\Ultimos retoques\Tetris\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Lucia\Desktop\Ultimos retoques\Tetris\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Lucia\Desktop\Ultimos retoques\Tetris\obj\Debug\netcoreapp3.1\Tetris.csprojAssemblyReference.cache
+C:\Users\Lucia\Desktop\Ultimos retoques\Tetris\obj\Debug\netcoreapp3.1\Tetris.Fin.resources
+C:\Users\Lucia\Desktop\Ultimos retoques\Tetris\obj\Debug\netcoreapp3.1\Tetris.Inicio.resources
+C:\Users\Lucia\Desktop\Ultimos retoques\Tetris\obj\Debug\netcoreapp3.1\Tetris.Juego.resources
+C:\Users\Lucia\Desktop\Ultimos retoques\Tetris\obj\Debug\netcoreapp3.1\Tetris.Properties.Resources.resources
+C:\Users\Lucia\Desktop\Ultimos retoques\Tetris\obj\Debug\netcoreapp3.1\Tetris.csproj.GenerateResource.cache
+C:\Users\Lucia\Desktop\Ultimos retoques\Tetris\obj\Debug\netcoreapp3.1\Tetris.AssemblyInfoInputs.cache
+C:\Users\Lucia\Desktop\Ultimos retoques\Tetris\obj\Debug\netcoreapp3.1\Tetris.AssemblyInfo.cs
+C:\Users\Lucia\Desktop\Ultimos retoques\Tetris\obj\Debug\netcoreapp3.1\Tetris.csproj.CoreCompileInputs.cache
+C:\Users\Lucia\Desktop\Ultimos retoques\Tetris\obj\Debug\netcoreapp3.1\Tetris.csproj.CopyComplete
+C:\Users\Lucia\Desktop\Ultimos retoques\Tetris\obj\Debug\netcoreapp3.1\Tetris.dll
+C:\Users\Lucia\Desktop\Ultimos retoques\Tetris\obj\Debug\netcoreapp3.1\Tetris.pdb
+C:\Users\Lucia\Desktop\Ultimos retoques\Tetris\obj\Debug\netcoreapp3.1\Tetris.genruntimeconfig.cache
+C:\Users\Lucia\Desktop\Tetruino\Tetris\bin\Debug\netcoreapp3.1\Tetris.exe
+C:\Users\Lucia\Desktop\Tetruino\Tetris\bin\Debug\netcoreapp3.1\Tetris.deps.json
+C:\Users\Lucia\Desktop\Tetruino\Tetris\bin\Debug\netcoreapp3.1\Tetris.runtimeconfig.json
+C:\Users\Lucia\Desktop\Tetruino\Tetris\bin\Debug\netcoreapp3.1\Tetris.runtimeconfig.dev.json
+C:\Users\Lucia\Desktop\Tetruino\Tetris\bin\Debug\netcoreapp3.1\Tetris.dll
+C:\Users\Lucia\Desktop\Tetruino\Tetris\bin\Debug\netcoreapp3.1\Tetris.pdb
+C:\Users\Lucia\Desktop\Tetruino\Tetris\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\Lucia\Desktop\Tetruino\Tetris\bin\Debug\netcoreapp3.1\System.IO.Ports.dll
+C:\Users\Lucia\Desktop\Tetruino\Tetris\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\Lucia\Desktop\Tetruino\Tetris\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\Lucia\Desktop\Tetruino\Tetris\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\Lucia\Desktop\Tetruino\Tetris\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\Lucia\Desktop\Tetruino\Tetris\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\Lucia\Desktop\Tetruino\Tetris\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\Lucia\Desktop\Tetruino\Tetris\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\Lucia\Desktop\Tetruino\Tetris\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\Lucia\Desktop\Tetruino\Tetris\bin\Debug\netcoreapp3.1\runtimes\osx\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\Lucia\Desktop\Tetruino\Tetris\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\Lucia\Desktop\Tetruino\Tetris\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\Lucia\Desktop\Tetruino\Tetris\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Lucia\Desktop\Tetruino\Tetris\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Lucia\Desktop\Tetruino\Tetris\obj\Debug\netcoreapp3.1\Tetris.csprojAssemblyReference.cache
+C:\Users\Lucia\Desktop\Tetruino\Tetris\obj\Debug\netcoreapp3.1\Tetris.Fin.resources
+C:\Users\Lucia\Desktop\Tetruino\Tetris\obj\Debug\netcoreapp3.1\Tetris.Inicio.resources
+C:\Users\Lucia\Desktop\Tetruino\Tetris\obj\Debug\netcoreapp3.1\Tetris.Juego.resources
+C:\Users\Lucia\Desktop\Tetruino\Tetris\obj\Debug\netcoreapp3.1\Tetris.Properties.Resources.resources
+C:\Users\Lucia\Desktop\Tetruino\Tetris\obj\Debug\netcoreapp3.1\Tetris.csproj.GenerateResource.cache
+C:\Users\Lucia\Desktop\Tetruino\Tetris\obj\Debug\netcoreapp3.1\Tetris.AssemblyInfoInputs.cache
+C:\Users\Lucia\Desktop\Tetruino\Tetris\obj\Debug\netcoreapp3.1\Tetris.AssemblyInfo.cs
+C:\Users\Lucia\Desktop\Tetruino\Tetris\obj\Debug\netcoreapp3.1\Tetris.csproj.CoreCompileInputs.cache
+C:\Users\Lucia\Desktop\Tetruino\Tetris\obj\Debug\netcoreapp3.1\Tetris.csproj.CopyComplete
+C:\Users\Lucia\Desktop\Tetruino\Tetris\obj\Debug\netcoreapp3.1\Tetris.dll
+C:\Users\Lucia\Desktop\Tetruino\Tetris\obj\Debug\netcoreapp3.1\Tetris.pdb
+C:\Users\Lucia\Desktop\Tetruino\Tetris\obj\Debug\netcoreapp3.1\Tetris.genruntimeconfig.cache
+C:\Users\Lucia\Desktop\Tetruino_LXP\Código\tetruino_c#\Tetris\bin\Debug\netcoreapp3.1\Tetris.exe
+C:\Users\Lucia\Desktop\Tetruino_LXP\Código\tetruino_c#\Tetris\bin\Debug\netcoreapp3.1\Tetris.deps.json
+C:\Users\Lucia\Desktop\Tetruino_LXP\Código\tetruino_c#\Tetris\bin\Debug\netcoreapp3.1\Tetris.runtimeconfig.json
+C:\Users\Lucia\Desktop\Tetruino_LXP\Código\tetruino_c#\Tetris\bin\Debug\netcoreapp3.1\Tetris.runtimeconfig.dev.json
+C:\Users\Lucia\Desktop\Tetruino_LXP\Código\tetruino_c#\Tetris\bin\Debug\netcoreapp3.1\Tetris.dll
+C:\Users\Lucia\Desktop\Tetruino_LXP\Código\tetruino_c#\Tetris\bin\Debug\netcoreapp3.1\Tetris.pdb
+C:\Users\Lucia\Desktop\Tetruino_LXP\Código\tetruino_c#\Tetris\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\Lucia\Desktop\Tetruino_LXP\Código\tetruino_c#\Tetris\bin\Debug\netcoreapp3.1\System.IO.Ports.dll
+C:\Users\Lucia\Desktop\Tetruino_LXP\Código\tetruino_c#\Tetris\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\Lucia\Desktop\Tetruino_LXP\Código\tetruino_c#\Tetris\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\Lucia\Desktop\Tetruino_LXP\Código\tetruino_c#\Tetris\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\Lucia\Desktop\Tetruino_LXP\Código\tetruino_c#\Tetris\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\Lucia\Desktop\Tetruino_LXP\Código\tetruino_c#\Tetris\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\Lucia\Desktop\Tetruino_LXP\Código\tetruino_c#\Tetris\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\Lucia\Desktop\Tetruino_LXP\Código\tetruino_c#\Tetris\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\Lucia\Desktop\Tetruino_LXP\Código\tetruino_c#\Tetris\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\Lucia\Desktop\Tetruino_LXP\Código\tetruino_c#\Tetris\bin\Debug\netcoreapp3.1\runtimes\osx\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\Lucia\Desktop\Tetruino_LXP\Código\tetruino_c#\Tetris\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\Lucia\Desktop\Tetruino_LXP\Código\tetruino_c#\Tetris\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\Lucia\Desktop\Tetruino_LXP\Código\tetruino_c#\Tetris\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Lucia\Desktop\Tetruino_LXP\Código\tetruino_c#\Tetris\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Lucia\Desktop\Tetruino_LXP\Código\tetruino_c#\Tetris\obj\Debug\netcoreapp3.1\Tetris.csprojAssemblyReference.cache
+C:\Users\Lucia\Desktop\Tetruino_LXP\Código\tetruino_c#\Tetris\obj\Debug\netcoreapp3.1\Tetris.Fin.resources
+C:\Users\Lucia\Desktop\Tetruino_LXP\Código\tetruino_c#\Tetris\obj\Debug\netcoreapp3.1\Tetris.Inicio.resources
+C:\Users\Lucia\Desktop\Tetruino_LXP\Código\tetruino_c#\Tetris\obj\Debug\netcoreapp3.1\Tetris.Juego.resources
+C:\Users\Lucia\Desktop\Tetruino_LXP\Código\tetruino_c#\Tetris\obj\Debug\netcoreapp3.1\Tetris.Properties.Resources.resources
+C:\Users\Lucia\Desktop\Tetruino_LXP\Código\tetruino_c#\Tetris\obj\Debug\netcoreapp3.1\Tetris.csproj.GenerateResource.cache
+C:\Users\Lucia\Desktop\Tetruino_LXP\Código\tetruino_c#\Tetris\obj\Debug\netcoreapp3.1\Tetris.AssemblyInfoInputs.cache
+C:\Users\Lucia\Desktop\Tetruino_LXP\Código\tetruino_c#\Tetris\obj\Debug\netcoreapp3.1\Tetris.AssemblyInfo.cs
+C:\Users\Lucia\Desktop\Tetruino_LXP\Código\tetruino_c#\Tetris\obj\Debug\netcoreapp3.1\Tetris.csproj.CoreCompileInputs.cache
+C:\Users\Lucia\Desktop\Tetruino_LXP\Código\tetruino_c#\Tetris\obj\Debug\netcoreapp3.1\Tetris.csproj.CopyComplete
+C:\Users\Lucia\Desktop\Tetruino_LXP\Código\tetruino_c#\Tetris\obj\Debug\netcoreapp3.1\Tetris.dll
+C:\Users\Lucia\Desktop\Tetruino_LXP\Código\tetruino_c#\Tetris\obj\Debug\netcoreapp3.1\Tetris.pdb
+C:\Users\Lucia\Desktop\Tetruino_LXP\Código\tetruino_c#\Tetris\obj\Debug\netcoreapp3.1\Tetris.genruntimeconfig.cache
