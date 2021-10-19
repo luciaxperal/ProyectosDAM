@@ -1,0 +1,3 @@
+include ':EvalEx-2.5'
+include ':app'
+rootProject.name = "miCalcu_ConEvalEx"
