@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="@drawable/fondo_main_land"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/textView2"
+        style="@style/misTextos"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="81dp"
+        android:text="HOGWARTS MATH CLUB"
+        android:textSize="30dp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="180dp"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <EditText
+            android:id="@+id/editTextTextPersonName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:hint="@string/username"
+            android:inputType="textPersonName" />
+
+        <Button
+            android:id="@+id/buttonPlay"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/play" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="119dp"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <ToggleButton
+            android:id="@+id/buttonMusic"
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:checked="false"
+            android:textOff=""
+            android:textOn=""
+            android:background="@drawable/music"/>
+
+        <ImageButton
+            android:id="@+id/buttonStats"
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:background="@drawable/stats" />
+    </LinearLayout>
+
+</LinearLayout>

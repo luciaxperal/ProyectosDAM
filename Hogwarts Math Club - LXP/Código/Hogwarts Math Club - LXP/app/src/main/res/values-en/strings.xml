@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hogwarts Math Club</string>
+    <string name="username">What is your name?</string>
+    <string name="play">PLAY</string>
+    <string name="puntos">Points:</string>
+    <string name="answer">Answer</string>
+    <string name="check">Check</string>
+    <string name="level"><b>LEVEL:</b></string>
+    <string name="scoreboard"><u>SCOREBOARD</u></string>
+    <string name="level1"><b>LEVEL 1</b></string>
+    <string name="level2"><b>LEVEL 2</b></string>
+    <string name="level3"><b>LEVEL 3</b></string>
+    <string name="modo">PLAYING MODE</string>
+    <string name="endless">ENDLESS</string>
+    <string name="levels">LEVELS</string>
+    <string name="reiniciar">RESTART</string>
+    <string name="mensaje_gameover">You have been defeated by the Death Eaters</string>
+    <string name="mensaje_ganador">You pass another year in Hogwarts!!</string>
+    <string name="exit">EXIT</string>
+    <string name="borrar">CLEAN</string>
+</resources>

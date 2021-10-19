@@ -1,0 +1,54 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <style name="misbotonesnum">
+        <item name="android:layout_width">50dp</item>
+        <item name="android:layout_height">50dp</item>
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:scaleType">fitCenter</item>
+        <item name="fontFamily">@font/harry</item>
+        <item name="android:textSize">40dp</item>
+        <item name="android:onClick">escribirNum</item>
+    </style>
+    <style name="misimgnums">
+        <item name="android:layout_width">150dp</item>
+        <item name="android:layout_height">125dp</item>
+        <item name="android:background">@drawable/circulo</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:textAlignment">center</item>
+    </style>
+    <style name="misTextos">
+        <item name="fontFamily">@font/harry</item>
+        <item name="android:textAlignment">center</item>
+    </style>
+
+    <style name="miAlertDialogInicio" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <item name="colorAccent">#9EDFFF</item>
+        <item name="android:textColorPrimary">#001E56</item>
+        <item name="android:background">#28759C</item>
+        <item name="fontFamily">@font/harry</item>
+    </style>
+
+    <style name="miAlertDialogEnd" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <item name="colorAccent">#DDA22C</item>
+        <item name="android:textColorPrimary">@color/colorPrimary</item>
+        <item name="android:background">#5F3E1C</item>
+        <item name="fontFamily">@font/harry</item>
+    </style>
+
+    <style name="misLevels">
+        <item name="fontFamily">@font/harry</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:textSize">35dp</item>
+        <item name="android:padding">20dp</item>
+        <item name="android:layout_margin">15dp</item>
+        <item name="android:background">@drawable/cuadromarronoscuro</item>
+    </style>
+</resources>
